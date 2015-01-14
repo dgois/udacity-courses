@@ -1,0 +1,24 @@
+body {
+	font-family: 'Raleway', sans-serif;	
+}
+
+.color-background {
+	background-color: #131A2D;
+}
+
+.name {
+	font-weight: 900;
+	font-size: 60px;	
+}
+
+.normal {
+	font-weight: 400;	
+}
+
+.featured-work-color {
+	color: #D0C4AB;
+}
+
+.featured-work-items-font-size {
+	font-size: 40px;
+}

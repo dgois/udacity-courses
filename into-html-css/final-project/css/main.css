@@ -1,0 +1,62 @@
+/* Main styles */
+
+body {
+	font-family: Kalimati, Verdana, sans-serif;
+}
+
+p {
+	width: 549px;
+}
+
+
+/* Positioning styles */
+
+.positioning-page {
+	margin: 25px 0 0 19px;
+}
+
+.positioning-mug {
+	width: auto;
+}
+
+
+/* Font styles */
+
+.principal-title {
+	color: #666;
+	font-size: 48px;
+}
+
+.subtitle {
+	color: #f07c17;
+	font-size: 25px;
+	margin-bottom: 29px;
+}
+
+.text {
+	font-size: medium;
+	line-height: 200%;
+	color: #666
+}
+
+
+/* Details styles */
+
+.mug-image {
+	margin: 20px 0 29px 7px;
+	width: 375px;
+}
+
+.main-features {
+	border: 1px solid;
+	border-color: #ccc;
+	padding: 10px 0px 29px 30px;
+  margin-left: 8px;
+}
+
+.mockup-overlay {
+   top: 0;
+   position: absolute;
+   z-index: 10;
+   opacity: .4;
+}

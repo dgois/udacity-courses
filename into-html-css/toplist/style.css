@@ -1,0 +1,37 @@
+
+* {
+	-webkit-box-sizing: boder-box;
+	-moz-box-sizing: boder-box;
+	-ms-box-sizing: boder-box;
+	box-sizing: boder-box;
+}
+
+/*body {
+	max-width: 1200px;
+	margin-left: 5%;
+	margin-right: 5%;
+}*/
+
+.app {
+	display: flex;
+}
+
+/*.title, .description {
+	color: #7C8B88;
+	font-family: arial;
+	font-size: x-large;
+}
+
+.title {
+	background-color: #33BEBE;
+	font-size: -webkit-xxx-large;
+}
+*/
+.screenshot {
+	max-width: 460px;
+	margin-right: 30px;
+}
+
+.description {
+	max-width: 705px;
+}
